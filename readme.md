@@ -1,4 +1,4 @@
-# Trabalho Final de Algoritmos de ProgramaÃ§Ã£o (AP1)
+# Trabalho Final de Algoritmos de Programação (AP1)
 
 
 
